@@ -1,0 +1,6 @@
+D:\Projects\TestMergedList\TestMergedList\bin\Debug\TestMergedList.exe.config
+D:\Projects\TestMergedList\TestMergedList\bin\Debug\TestMergedList.exe
+D:\Projects\TestMergedList\TestMergedList\bin\Debug\TestMergedList.pdb
+D:\Projects\TestMergedList\TestMergedList\obj\Debug\TestMergedList.csprojResolveAssemblyReference.cache
+D:\Projects\TestMergedList\TestMergedList\obj\Debug\TestMergedList.exe
+D:\Projects\TestMergedList\TestMergedList\obj\Debug\TestMergedList.pdb
